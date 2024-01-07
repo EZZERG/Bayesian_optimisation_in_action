@@ -7,4 +7,6 @@ torch
 torchvision
 torchaudio
 gpytorch
+botorch
 tqdm
+seaborn
